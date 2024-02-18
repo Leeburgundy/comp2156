@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../TeamProject"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
